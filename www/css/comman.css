@@ -1,0 +1,11 @@
+/*-------------------------Comman CSS-------------------------------------*/
+.input-style
+{
+   border-bottom-color:  gray;
+   height: 50px; 
+}
+
+a:hover
+{
+    text-decoration: none;
+}
